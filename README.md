@@ -1,2 +1,2 @@
-# Codeforces Solution | C,C++
+# Codeforces Solutions in C and C++
  
